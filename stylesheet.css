@@ -158,3 +158,79 @@ span{
 .fa-circle {
 	color: green;
 }
+
+footer{
+	background-color: #2f3c3f;
+	height:210px;
+}
+
+.content-wrapper {
+	padding:10px 10%;
+}
+
+.footer-wrapper {
+	float: left;
+	width:30%;
+	border:thin 2px #FFFFFF;
+	text-align:center;
+
+}
+
+.menu-wrapper {
+	float: left;
+	width:30%;
+	border:thin 2px #FFFFFF;
+	text-align:center;
+
+}
+
+.footer-wrapper h2 {
+	color:white;
+	font-size: 18px;
+	text-align: center;
+}
+
+.menu-wrapper h2 {
+	color:white;
+	font-size: 18px;
+	text-align: center;
+	
+}
+
+.footer-content {
+	margin: 0;
+	text-align: center;
+	
+}
+
+.footer-content p {
+	color: grey;
+	text-align: center;
+	padding-top:15px;
+	
+}
+
+.footer-link {
+	padding:5px 10px;
+	display:inline-block;
+	margin-top:2px;
+	text-align: center;
+	width:50%;
+	text-decoration: none;
+	color: grey;
+}
+
+.footer-link:hover {
+	transition:0.5s;
+	background-color:white;
+}
+
+.image-wrapper {
+	margin:auto;
+	border: 1px solid white;
+	height:110px;
+	width:200px;
+	background-image:url(https://cdn.pixabay.com/photo/2020/01/26/20/14/computer-4795762_1280.jpg);
+	background-size:100% 110px;
+	position:relative center;
+}
